@@ -33,3 +33,14 @@ and you\'ll still have the original files if you make a mess.
 .</p>
 
 <h2>License</h2><p>This theme is licensed under the <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public License</a>.</div></div>';
+
+$string['enablejquery'] = 'Enable jQuery for this theme.';
+$string['enablejquerydesc'] = 'This theme uses jQuery for many features.  You should enable it to get full value for this theme.';
+$string['gakey'] = 'Google Analytics Key';
+$string['gakeydesc'] = 'Enter your Google Analytics key here to that you can use analytics on your site';
+$string['hidesettingsblock'] = 'Hide Settings Block';
+$string['hidesettingsblockdesc'] = 'Hide the settings block from the page';
+$string['hidenavigationblock'] = 'Hide Navigation block';
+$string['hidenavigationblockdesc'] = 'Hide the navigation block from the page';
+$string['useawesomebar'] = 'Use Awesomebar';
+$string['useawesomebardesc'] = 'Enable Awesomebar for administration settings';
